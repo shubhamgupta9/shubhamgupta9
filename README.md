@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/shubhamgupta9/shubhamgupta9/shubhamgupta9-patch-1/animaniacs-nerd.gif" width="100"/>
 </div>
 
 <!--
